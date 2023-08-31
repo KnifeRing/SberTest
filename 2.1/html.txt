@@ -1,0 +1,21 @@
+
+
+<html>
+
+  <head></head>
+
+<body>
+    <a href='/'> 
+      <img class='logo' src=''>
+    </a>
+    <nav>
+      <span>О нас</span>  
+      <span>Товары</span> 
+      <span>Услуги</span> 
+    </nav>
+    <div>
+    </div>
+</body>
+
+</html>
+
